@@ -1,2 +1,6 @@
 # Regression_lineal
-Lab_2 
+### Laboratorio 2
+
+* Jose David Gómez
+* Mariana Rodríguez Morales
+* Cristian Vizcaíno 
